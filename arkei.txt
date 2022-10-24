@@ -37,3 +37,6 @@ cd /var/www/html/www
 mysql -u root -p arkei < arkei.sql
 pass; root
 
+------
+builder
+https://github.com/h4ckti2/arkeibuilder
